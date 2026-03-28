@@ -1,0 +1,8 @@
+{
+    "model_name": "Random Forest",
+    "metrics": {
+        "R2": 0.8053,
+        "MAE": 0.3276,
+        "RMSE": 0.5051
+    }
+}
