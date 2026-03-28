@@ -1,0 +1,2 @@
+version,path,sha256,sklearn,created_at,notes
+v1.0.0,titanic_pipe.joblib,87ca658b80f02fdac4e53cab6015cfb7e143ea494871414961a6de5987ba2a79,1.8.0,2026-01-02T13:20:28.430497Z,Baseline logistic pipeline
